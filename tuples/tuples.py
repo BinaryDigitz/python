@@ -23,17 +23,3 @@ tuple1 = tuple(list1)
 # tuple are IMMUTABLE
 # tuple cannot be reasigned
 
-# SWAPPING VARIABLES
-
-x = 10
-y = 11
-
-z = x
-x = y
-y = z
-
-#  easeiest way is to defind a turple and unpack it
-
-x, y = y, x
-# still thesame as 
-x, y = ( 11, 10)
