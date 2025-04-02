@@ -20,6 +20,3 @@ list1 = [ 1, 2, 3]
 tuple1 = tuple(list1)
 
 
-# tuple are IMMUTABLE
-# tuple cannot be reasigned
-
