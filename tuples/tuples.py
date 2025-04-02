@@ -20,3 +20,8 @@ list1 = [ 1, 2, 3]
 tuple1 = tuple(list1)
 
 
+<<<<<<< HEAD
+=======
+# tuple are IMMUTABLE
+# tuple cannot be reasigned
+>>>>>>> b71645dec5aa23c8d133ea848e94d33bba6effbf
